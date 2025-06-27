@@ -1,4 +1,4 @@
-#fundamentos #js #lenguajes #frontend
+#fundamentos #js #lenguajes
 
 ## ¿Qué es Javascript?
 Javascript es un **lenguaje de programación**, o lo que es lo mismo, un mecanismo con el que podemos decirle a nuestro navegador que tareas debe realizar, en que orden y cuantas veces (_por ejemplo_).

@@ -1,4 +1,4 @@
-#eventos #poo #js #lenguajes #frontend
+#eventos #poo #js #lenguajes
 
 En el artículo anterior, vimos el método `.addEventListener()` y como podemos utilizarlo. Sin embargo, si tenemos que manejar múltiples eventos, el código se nos comienza a complicar y es difícil de organizar.
 

@@ -1,4 +1,4 @@
-#eventos #js #html #lenguajes #frontend
+#eventos #js #html #lenguajes
 
 Probablemente, la forma más fácil de trabajar con [eventos Javascript](Eventos en JavaScript) es mediante **atributos de una etiqueta HTML**. Sin embargo, aunque es la más sencilla, también es la menos recomendable, pero es un buen punto de partida para comenzar a trabajar con eventos.
 

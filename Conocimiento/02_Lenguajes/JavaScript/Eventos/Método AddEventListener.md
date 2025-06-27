@@ -1,3 +1,5 @@
+#eventos #poo #js #lenguajes 
+
 En los artículos anteriores hemos visto que son los **eventos Javascript** y como gestionarlos a través de código HTML, o a través de código Javascript, utilizando la API del DOM. Sin embargo, como hemos visto, la forma más recomendable es hacer uso del método `.addEventListener()`, el cuál es mucho más potente y versatil para la mayoría de los casos.
 
 - Con `.addEventListener()` se pueden añadir fácilmente **múltiples** funcionalidades.

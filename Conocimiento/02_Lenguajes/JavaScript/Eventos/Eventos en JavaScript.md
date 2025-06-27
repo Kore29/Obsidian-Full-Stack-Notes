@@ -1,4 +1,4 @@
-#eventos #js #lenguajes #frontend
+#eventos #js #lenguajes
 
 En los artículos anteriores explicamos [que es un evento Javascript](Resumen.md) y como [gestionar eventos a través de HTML](Eventos en HTML), concretamente, desde un atributo de una etiqueta HTML. Sin embargo, vimos que uno de los problemas de esta forma de trabajar es que estamos **acoplando el código HTML al código Javascript**.
 
