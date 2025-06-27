@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "4d7a4a7e0f87baed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0278197824f99eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce90f2a6b567edf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Back-End/Express/9. Despliegue y Producción.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Despliegue y Producción"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9291015d8b74872d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fd1089d8f9ce86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e12cf922d7cd989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "436c01d390a6bf62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca6d9b04fa299b97",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "898ab76d548f20cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5110321044922
+  },
+  "right": {
+    "id": "b8769d6d9b2a92b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd0f88b373b1c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30aa876b38466142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Language/Java/Sintaxis/Recursividad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Recursividad"
+            }
+          },
+          {
+            "id": "9daefc6cbfbb92e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Language/Java/Sintaxis/Recursividad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Recursividad"
+            }
+          },
+          {
+            "id": "d6ecc9606a8f0c61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3ab7945bc238054",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Language/Java/Sintaxis/Recursividad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Recursividad"
+            }
+          },
+          {
+            "id": "de56ceed0f16e7d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "ce90f2a6b567edf7",
+  "lastOpenFiles": [
+    "Programación/Back-End/Express/Recursos Externos.md",
+    "Programación/Back-End/Express/Index.md",
+    "Programación/Back-End/Express/9. Despliegue y Producción.md",
+    "Programación/Back-End/Express/8. Pruebas y Testing.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Glosario.md",
+    "Programación/Back-End/Express/7. Vista y Estaticos.md",
+    "Programación/Back-End/Express/6. Base De Datos y Modelos.md",
+    "Programación/Back-End/Express/5. Autentificación.md",
+    "Programación/Back-End/Express/4. APIs RESTful.md",
+    "Programación/Back-End/Express/1. Introducción a Express.md",
+    "Programación/Back-End/Express/2. Estructura Proyectos.md",
+    "Programación/Back-End/Express/3. Rutas y Controladores.md",
+    "Programación/Language/Java/Paquetes y FrameWorks/LinkedList.md",
+    "Programación/Language/Java/Paquetes y FrameWorks/Iteradores.md",
+    "Programación/Language/Java/Paquetes y FrameWorks/HashSet.md",
+    "Programación/Language/Java/Paquetes y FrameWorks/Data Structure.md",
+    "Programación/Language/Java/Paquetes y FrameWorks/ArrayList.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Métodos HTTP y APIs REST.md",
+    "Programación/Back-End/Nodejs.zip",
+    "Programación/Back-End/Nodejs/Modulo 3/Routing, Middleware y Templating.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Introduction to Middleware & Routers.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Extender con Paquetes de Terceros.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Express Web Application Framework.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Authentication.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Authentication and Authorization.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Your First Express Web Application.md",
+    "Programación/Back-End/Nodejs/Modulo 3/Web Frameworks.md",
+    "Programación/Back-End/Nodejs/Modulo 3",
+    "Miscelánea",
+    "Technologies/Git",
+    "Programación/Base de Datos",
+    "Programación",
+    "Programación/Back-End/Nodejs/Modulo 2",
+    "Programación/Back-End/Nodejs/Modulo 1",
+    "Images",
+    "Images/client_server.png",
+    "Hlml",
+    "tuplas.png",
+    "tuplas 1.png",
+    "render.alien.png",
+    "conocimiento/conocimiento/Python/Untitled.canvas",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 162251 1.png",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 162251.png",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 161952.png",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 161705.png",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 161326.png",
+    "conocimiento/conocimiento/images/Captura de pantalla 2023-08-28 160949.png"
+  ]
+}

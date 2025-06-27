@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "3c87143a3dd52a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa1ce63415b2908e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a1fa929d6b1359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conocimiento/03_Frontend/React/14. Uso de activos en React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Uso de activos en React"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69837af5247a7118",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e7fde29e047953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ec2a6bb81cbc77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c320b6289668b0ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78f1ffba897d297b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "54ddbb21685ebc5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "75be045f03d54861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22c115db9d647d14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conocimiento/Language/Java/Paquetes/Listas y Colecciones/Diccionarios/EntryMap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for EntryMap"
+            }
+          },
+          {
+            "id": "9b48ee0280a4a897",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c2cc43dd0c662454",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9ddf2b92e12d586",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5c13f24253131815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "28a1fa929d6b1359",
+  "lastOpenFiles": [
+    "Obsidian-Full-Stack-Notes",
+    "Conocimiento/03_Frontend/React/15. Buenas practicas y consejos.md",
+    "Conocimiento/03_Frontend/React/14. Uso de activos en React.md",
+    "Conocimiento/03_Frontend/React/13. Enlaces y Encaminamiento en React.md",
+    "Conocimiento/03_Frontend/React/12. Introduccion a Context API.md",
+    "Conocimiento/03_Frontend/React/11. Formularios en React.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/1. Clases y Objetos.md",
+    "Conocimiento/03_Frontend/React/3. JSX.md",
+    "Conocimiento/03_Frontend/React/2. Configuracion del entorno.md",
+    "Conocimiento/03_Frontend/React/1. Introducción a React.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/8. Mas sobre Métodos.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/7. Relaciones entre Clases.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/6. Clases Abstractas e Interfaces.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/5. Polimorfismo.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/4. Herencia.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/3. Abstracción.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/2. Encapsulamiento.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/Clases y Objetos.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/Sobrecarga de Métodos.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/Atributos y métodos.md",
+    "Conocimiento/02_Lenguajes/Java/Paquetes/3. Data Structure.md",
+    "Conocimiento/02_Lenguajes/Java/Paquetes/1. Arrays.md",
+    "Conocimiento/02_Lenguajes/Java/Paquetes/2. Arrays Multidimensionales.md",
+    "Conocimiento/01_Fundamentos/Tipos de datos.md",
+    "Conocimiento/01_Fundamentos/Complejidad.md",
+    "Conocimiento/01_Fundamentos/Algoritmos básicos.md",
+    "Content/validador-html.png",
+    "Content/tinymce.png",
+    "Content/formato-contenedor-video.png",
+    "Content/estructura-url.png",
+    "Content/estructura-etiqueta-html.png",
+    "Content/estructura-documento-html.png",
+    "Conocimiento/06_Otros",
+    "Conocimiento/05_DataBases",
+    "Conocimiento/04_Backend",
+    "Conocimiento/03_Frontend",
+    "Conocimiento/01_Fundamentos",
+    "Conocimiento/00_Index",
+    "Conocimiento/Programación/Back-End/Nodejs/Untitled",
+    "Conocimiento/03_Frontend/Web Layout",
+    "Conocimiento/03_Frontend/React",
+    "Conocimiento/05_DataBases/NoSQL",
+    "dc.drawio.png",
+    "Images/Captura de pantalla 2025-01-27 141532.png",
+    "Conocimiento/Language/Python/S.canvas"
+  ]
+}
