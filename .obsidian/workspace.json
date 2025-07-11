@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/9. Excepciones en Java.md",
+                "file": "Conocimiento/02_Lenguajes/Java/Sintaxis/7. Lambdas y Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Excepciones en Java"
+              "title": "7. Lambdas y Streams"
             }
           }
         ]
@@ -48,12 +48,22 @@
             }
           },
           {
-            "id": "c320b6289668b0ac",
+            "id": "78f1ffba897d297b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b8d9d4ae523973d2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "#javascript",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,22 +73,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "78f1ffba897d297b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 391.5
   },
   "right": {
     "id": "54ddbb21685ebc5b",
@@ -167,43 +167,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "2c02cbbb158056ee",
   "lastOpenFiles": [
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/8. Mas sobre Métodos.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/4. Excepciones.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/5. Hilos (Threads).md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/7. Lambdas y Streams.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/6. Abstracción.md",
+    "Conocimiento/02_Lenguajes/Python/11. Testing y buenas prácticas.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/3. Control de Flujo.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/2. Variables y Tipos de Datos.md",
+    "Conocimiento/02_Lenguajes/Java/Sintaxis/1. Hola Mundo.md",
+    "Conocimiento/02_Lenguajes/Python/10. Trabajo con fechas y horas.md",
+    "Conocimiento/02_Lenguajes/Python/9. Gestión de archivos y serialización.md",
+    "Conocimiento/02_Lenguajes/Python/2. Tipos de datos y estructuras nativas poderosas.md",
+    "Conocimiento/02_Lenguajes/Python/3. Funciones y programación funcional.md",
+    "Conocimiento/02_Lenguajes/Python/8. Reflexión, introspección y metaprogramación.md",
     "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/7. Relaciones entre Clases.md",
+    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/8. Mas sobre Métodos.md",
     "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/9. Excepciones en Java.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/6. Clases Abstractas e Interfaces.md",
     "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/5. Polimorfismo.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/4. Herencia.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/3. Abstracción.md",
     "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/2. Encapsulamiento.md",
     "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/1. Clases y Objetos.md",
-    "Conocimiento/04_Backend/Express/5. Autentificación.md",
-    "Conocimiento/04_Backend/Express/4. APIs RESTful.md",
-    "Conocimiento/04_Backend/Express/2. Estructura Proyectos.md",
-    "Conocimiento/04_Backend/Express/1. Introducción a Express.md",
-    "Conocimiento/03_Frontend/React/14. Uso de activos en React.md",
-    "Conocimiento/03_Frontend/React/15. Buenas practicas y consejos.md",
-    "Conocimiento/03_Frontend/React/1. Introducción a React.md",
-    "Conocimiento/05_DataBases/SQL/2. Conceptos Básicos.md",
-    "Conocimiento/04_Backend/Nodejs/9. Event Loop y Asincronía.md",
-    "Conocimiento/04_Backend/Nodejs/8. Módulo `process`.md",
-    "Conocimiento/04_Backend/Nodejs/7. Módulo `os` (Sistema Operativo).md",
-    "Conocimiento/04_Backend/Nodejs/6. Módulo `path`.md",
-    "Conocimiento/04_Backend/Nodejs/5. Módulo `fssi` (File System).md",
-    "Conocimiento/04_Backend/Nodejs/4. Módulos en Node.js.md",
-    "Conocimiento/04_Backend/Nodejs/3. Fundamentos de JavaScript para Node.js.md",
-    "Conocimiento/04_Backend/Nodejs/2. Instalación y Entorno de Desarrollo.md",
-    "Conocimiento/04_Backend/Nodejs/1. Introducción a Node.js.md",
+    "Conocimiento/02_Lenguajes/Python/7. Iteradores, generadores y concurrencia ligera.md",
+    "Conocimiento/02_Lenguajes/Python/5. Módulos, paquetes y manejo de dependencias.md",
+    "Conocimiento/02_Lenguajes/JavaScript/Eventos/Eventos en JavaScript.md",
+    "Eventos.md",
+    "Eventos-en-HTML.md",
+    "Resumen.md",
+    "Conocimiento/02_Lenguajes/JavaScript/Eventos/Eventos en HTML.md",
+    "Conocimiento/02_Lenguajes/Python/Fundamentos",
     "Obsidian-Full-Stack-Notes",
     "Content/validador-html.png",
     "Content/tinymce.png",
@@ -219,7 +220,6 @@
     "Conocimiento/00_Index",
     "Conocimiento/Programación/Back-End/Nodejs/Untitled",
     "Conocimiento/03_Frontend/Web Layout",
-    "Conocimiento/03_Frontend/React",
     "dc.drawio.png",
     "Images/Captura de pantalla 2025-01-27 141532.png",
     "Conocimiento/Language/Python/S.canvas"
