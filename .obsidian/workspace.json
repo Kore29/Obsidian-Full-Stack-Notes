@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "03cfa0ac3caf87b9",
+        "id": "9468b46cf1b939b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2c02cbbb158056ee",
+            "id": "2ee51ce574bdb950",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a0dd9f28ff3fdf56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/02_Lenguajes/Java/Sintaxis/7. Lambdas y Streams.md",
-                "mode": "source",
+                "file": "Conocimiento/04_Frontend/Tailwind/4. Sistema de Diseño de Tailwind.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Lambdas y Streams"
+              "title": "4. Sistema de Diseño de Tailwind"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#technologies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 200
   },
   "right": {
     "id": "54ddbb21685ebc5b",
@@ -87,6 +98,7 @@
       {
         "id": "75be045f03d54861",
         "type": "tabs",
+        "dimension": 62.708719851577,
         "children": [
           {
             "id": "22c115db9d647d14",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conocimiento/Language/Java/Paquetes/Listas y Colecciones/Diccionarios/EntryMap.md",
+                "file": "Conocimiento/03_Frontend/Tailwind/4. Sistema de Diseño de Tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EntryMap"
+              "title": "Backlinks for 4. Sistema de Diseño de Tailwind"
             }
           },
           {
@@ -113,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Conocimiento/03_Frontend/Tailwind/4. Sistema de Diseño de Tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 4. Sistema de Diseño de Tailwind"
             }
           },
           {
@@ -127,7 +140,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -158,7 +173,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "75748ffc920f890d",
+        "type": "tabs",
+        "dimension": 37.291280148423006,
+        "children": [
+          {
+            "id": "2c02cbbb158056ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,38 +204,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2c02cbbb158056ee",
+  "active": "a0dd9f28ff3fdf56",
   "lastOpenFiles": [
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/4. Excepciones.md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/5. Hilos (Threads).md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/7. Lambdas y Streams.md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/6. Abstracción.md",
-    "Conocimiento/02_Lenguajes/Python/11. Testing y buenas prácticas.md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/3. Control de Flujo.md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/2. Variables y Tipos de Datos.md",
-    "Conocimiento/02_Lenguajes/Java/Sintaxis/1. Hola Mundo.md",
-    "Conocimiento/02_Lenguajes/Python/10. Trabajo con fechas y horas.md",
-    "Conocimiento/02_Lenguajes/Python/9. Gestión de archivos y serialización.md",
-    "Conocimiento/02_Lenguajes/Python/2. Tipos de datos y estructuras nativas poderosas.md",
-    "Conocimiento/02_Lenguajes/Python/3. Funciones y programación funcional.md",
-    "Conocimiento/02_Lenguajes/Python/8. Reflexión, introspección y metaprogramación.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/7. Relaciones entre Clases.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/8. Mas sobre Métodos.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/9. Excepciones en Java.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/5. Polimorfismo.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/2. Encapsulamiento.md",
-    "Conocimiento/02_Lenguajes/Java/Programación Orientada a Objetos/1. Clases y Objetos.md",
-    "Conocimiento/02_Lenguajes/Python/7. Iteradores, generadores y concurrencia ligera.md",
-    "Conocimiento/02_Lenguajes/Python/5. Módulos, paquetes y manejo de dependencias.md",
-    "Conocimiento/02_Lenguajes/JavaScript/Eventos/Eventos en JavaScript.md",
-    "Eventos.md",
-    "Eventos-en-HTML.md",
-    "Resumen.md",
-    "Conocimiento/02_Lenguajes/JavaScript/Eventos/Eventos en HTML.md",
+    "gitignore.txt",
+    "Nuevo Documento de texto.txt",
+    "Conocimiento/04_Frontend/Tailwind/3. Conceptos Básicos.md",
+    "Conocimiento/04_Frontend/Tailwind/2. Configuración Inicial.md",
+    "Conocimiento/04_Frontend/Tailwind/1. Introducción a Tailwind CSS.md",
+    "Conocimiento/04_Frontend/React/2. Configuracion del entorno.md",
+    "Conocimiento/05_Backend/Express/2. Estructura Proyectos.md",
+    "Conocimiento/03_DevOps/Git/5. Trabajo con ramas.md",
+    "Conocimiento/03_DevOps/Git/4. Comandos esenciales de Git.md",
+    "Conocimiento/03_DevOps/Git/3. Conceptos básicos.md",
+    "Conocimiento/06_DataBases/Diseño de BBDD.md",
+    "Wled -Project-.md",
+    "Conocimiento/06_DevOps/Zigbee System.md",
+    "Conocimiento/03_DevOps/Git/2. Instalación y configuración inicial.md",
+    "Conocimiento/03_DevOps/Git/1. Introducción a Git.md",
+    "Conocimiento/04_Frontend/React/4. Componentes en React.md",
+    "Conocimiento/04_Frontend/React/3. JSX.md",
+    "Conocimiento/04_Frontend/React/1. Introducción a React.md",
+    "Conocimiento/05_Backend/Express/1. Introducción a Express.md",
+    "Conocimiento/05_Backend/Nodejs/9. Event Loop y Asincronía.md",
+    "Conocimiento/05_Backend/Nodejs/8. Módulo `process`.md",
+    "Conocimiento/05_Backend/Nodejs/7. Módulo `os` (Sistema Operativo).md",
+    "Conocimiento/05_Backend/Nodejs/6. Módulo `path`.md",
+    "Conocimiento/05_Backend/Nodejs/5. Módulo `fssi` (File System).md",
+    "Conocimiento/05_Backend/Nodejs/4. Módulos en Node.js.md",
+    "Conocimiento/05_Backend/Nodejs/3. Fundamentos de JavaScript para Node.js.md",
+    "Conocimiento/05_Backend/Nodejs/2. Instalación y Entorno de Desarrollo.md",
+    "Conocimiento/04_Frontend/Tailwind",
     "Conocimiento/02_Lenguajes/Python/Fundamentos",
     "Obsidian-Full-Stack-Notes",
     "Content/validador-html.png",
@@ -212,14 +245,12 @@
     "Content/estructura-url.png",
     "Content/estructura-etiqueta-html.png",
     "Content/estructura-documento-html.png",
-    "Conocimiento/06_DevOps",
-    "Conocimiento/05_DataBases",
-    "Conocimiento/04_Backend",
-    "Conocimiento/03_Frontend",
+    "Conocimiento/03_DevOps",
+    "Conocimiento/06_DataBases",
+    "Conocimiento/05_Backend",
+    "Conocimiento/04_Frontend",
     "Conocimiento/01_Fundamentos",
     "Conocimiento/00_Index",
-    "Conocimiento/Programación/Back-End/Nodejs/Untitled",
-    "Conocimiento/03_Frontend/Web Layout",
     "dc.drawio.png",
     "Images/Captura de pantalla 2025-01-27 141532.png",
     "Conocimiento/Language/Python/S.canvas"

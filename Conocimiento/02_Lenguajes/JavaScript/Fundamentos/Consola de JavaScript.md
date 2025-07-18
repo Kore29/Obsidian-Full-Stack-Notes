@@ -1,4 +1,4 @@
-#fundamentos #js #lenguajes 
+#js #lenguajes 
 
 La consola Javascript es una zona del navegador ubicada en las **DevTools** donde podemos escribir pequeños fragmentos de código y observar los resultados, así como revisar mensajes de información, error u otros detalles similares.
 

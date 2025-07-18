@@ -4,66 +4,9 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#java  ",
-      "color": {
-        "a": 1,
-        "rgb": 15112795
-      }
-    },
-    {
-      "query": "tag:#python  ",
-      "color": {
-        "a": 1,
-        "rgb": 13166171
-      }
-    },
-    {
-      "query": "tag:#html",
-      "color": {
-        "a": 1,
-        "rgb": 10116070
-      }
-    },
-    {
-      "query": "tag:#css",
-      "color": {
-        "a": 1,
-        "rgb": 14506982
-      }
-    },
-    {
-      "query": "tag:#js",
-      "color": {
-        "a": 1,
-        "rgb": 15001179
-      }
-    },
-    {
-      "query": "tag:#cpp  ",
-      "color": {
-        "a": 1,
-        "rgb": 5989606
-      }
-    },
-    {
-      "query": "tag:#technologies  ",
-      "color": {
-        "a": 1,
-        "rgb": 7988827
-      }
-    },
-    {
-      "query": "tag:#sql",
-      "color": {
-        "a": 1,
-        "rgb": 15096667
-      }
-    }
-  ],
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.4,
@@ -74,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.79553264604811,
   "linkDistance": 296,
-  "scale": 0.07537430155803189,
+  "scale": 0.09221120249232916,
   "close": true
 }
